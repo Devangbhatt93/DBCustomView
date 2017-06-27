@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "987295278523437BBD90DB3899613FA1329BFF57" : 9223372036854775807,
+    "08FADD989835D421B6101B023F4C984A29A26F26" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1BDB7F0A-4C10-40ED-A3D0-F4C7ABD4188C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "987295278523437BBD90DB3899613FA1329BFF57" : "",
+    "08FADD989835D421B6101B023F4C984A29A26F26" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Devangbhatt93\/DBCustomView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "08FADD989835D421B6101B023F4C984A29A26F26"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Devangbhatt93\/DBCustomView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "987295278523437BBD90DB3899613FA1329BFF57"
+    }
+  ]
+}
